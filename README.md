@@ -1,14 +1,6 @@
 
-<div>
-🔴🟡🟢
-
-<br>
-
-</div>
-
-
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/b412870c-14d2-4e1b-96be-8a808b9e249"/>
+  <img src="[https://github.com/user-attachments/assets/b412870c-14d2-4e1b-96be-8a808b9e249](https://flim-1-0-2.s3.eu-central-1.amazonaws.com/thumbs/hd_720px/4e42f342b8b611eb87c810ddb1aba44f.jpeg)"/>
 </div>
 
 <p align="center">
@@ -92,22 +84,6 @@
 
 <div>
 
-  ## 📫 &nbsp;My Contacts
-
-  <!-- [![Portfolio Badge](https://img.shields.io/badge/-Portifolio-blueviolet?style=flat-square&logo=Portfolio&logoColor=white)](https://pepyn0.github.io/)&nbsp; -->
-  [![LinkedIn Badge](https://img.shields.io/badge/-Pablo_Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pablodsilva/)](https://www.linkedin.com/in/pablodsilva/)&nbsp;
-  [![Gmail Badge](https://img.shields.io/badge/-pablo.pds100@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:pablo.pds100@gmail.com)&nbsp;
-  [![Instagram Badge](https://img.shields.io/badge/-Pepyn0__-EB2A08?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/pepyn0_/)&nbsp;
-  [![Twitter Badge](https://img.shields.io/badge/-Pepyn0-blue?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Pepyn0)&nbsp;
-  [![AniList Badge](https://img.shields.io/badge/-Pepyn0-C063FF?style=flat-square&logo=Anilist&logoColor=white)](https://anilist.co/user/Pepyn0/)
-
-</div>
-
-
-<!-- ![Snake animation](https://github.com/Pepyn0/Pepyn0/blob/output/github-contribution-grid-snake.svg) -->
-
-<div>
-  <img src="https://github.com/hanifnrh/hanifnrh/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </div>
 
 <!-- ## 📚 &nbsp;My Projects -->
@@ -116,4 +92,4 @@
 ------
 Credits: [hanifnrh](https://github.com/hanifnrh)
 
-Last Edited on: 26/05/2022
+Last Edited on: 21/02/2025
