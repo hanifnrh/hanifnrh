@@ -3,14 +3,6 @@
   <img src="[https://github.com/user-attachments/assets/b412870c-14d2-4e1b-96be-8a808b9e249](https://flim-1-0-2.s3.eu-central-1.amazonaws.com/thumbs/hd_720px/4e42f342b8b611eb87c810ddb1aba44f.jpeg)"/>
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pepyn0&color=blueviolet" alt="Profile views" />
-  &nbsp;
-  <a href="https://github.com/Pepyn0?tab=followers">
-    <img src="https://img.shields.io/github/followers/Pepyn0?style=social" alt="Followers" />
-  </a>
-</p>
-
 
 <div>
 
