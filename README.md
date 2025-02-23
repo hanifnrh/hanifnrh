@@ -4,12 +4,11 @@
 
 <div>
 
-  ## 🧭 &nbsp;About Me
+  ## About Me
 
-  - 📚 Creative engineer works to deliver the best user experiences
-  <!-- - 🔭 I'm currently working on  -->
+  - Creative design thinker engineer works to deliver the best user experiences
 
-  - 🌱  I’m always studying **JavaScript**, **TypeScript**, **ReactJS**, **NodeJS**, **Laravel**, **Figma** and **Django**.
+  - My curent stacks are **JavaScript**, **TypeScript**, **ReactJS**, **NodeJS**, **Laravel**, **Figma** and **Django**.
 
   <br>
   
@@ -17,16 +16,9 @@
 </div>
 
 
-<div align="center">
-
-  `Developer and design thinker`
-  
-</div>
-
-
 <div>
 
-  ## 📚 &nbsp;Focuses
+  ## Focuses
 
   - UI Design
   - UX Research
@@ -38,7 +30,7 @@
 
 <div>
 
-  ## 🛠️ &nbsp;My Tech Stacks
+  ## My Tech Stacks
 
   ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=flat&logo=HTML5)&nbsp;
   ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -58,7 +50,7 @@
 
 <div>
 
-  ## 📊 &nbsp;My activities
+  ## My activities
   <a href="https://github.com/hanifnrh">
     <img width=450 height=170 align="center" alt="hanifnrh" src="https://github-readme-stats.vercel.app/api?username=hanifnrh&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
