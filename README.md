@@ -1,14 +1,20 @@
 
  ![image](https://github.com/user-attachments/assets/5747eaae-c7bd-42af-832e-c0a5b6971c4d)
 
+<div>
+
+  ## Hello I'm Ziel/Hanif, Creative design thinker engineer
+  More details about me: https://www.ziel.works/
+  
+</div>
 
 <div>
 
-  ## About Me
+  - Creative design thinker engineer works to deliver the best user experiences.
 
-  - Creative design thinker engineer works to deliver the best user experiences
+  - UI designer, UX researcher, front end web developer, also full stack web developer.
 
-  - My curent stacks are **JavaScript**, **TypeScript**, **ReactJS**, **NodeJS**, **Laravel**, **Figma** and **Django**.
+  - I mainly use **JavaScript**, **TypeScript**, **ReactJS**, **NodeJS**, **Laravel**, **Figma** and **Django**.
 
   <br>
   
