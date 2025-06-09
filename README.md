@@ -3,7 +3,8 @@
 
 <div>
 
-  ## Hello I'm Ziel/Hanif, Creative design thinker engineer
+  ## Hello I'm Ziel/Hanif
+  Creative design thinker engineer
   More details about me: https://www.ziel.works/
   
 </div>
